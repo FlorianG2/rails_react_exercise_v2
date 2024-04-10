@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
+    get 'trainings/index'
+    get 'trainings/show'
     get 'exercises/index'
     post 'exercises/create'
     get '/show/:id', to: 'exercises#show'

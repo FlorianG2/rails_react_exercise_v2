@@ -1,0 +1,22 @@
+{
+  "exercises": [
+    {
+      "name": "GR1",
+      "trainings": "Green Tea",
+      "instruction": "buy one get one",
+      "price": 3.11
+    },
+    {
+      "name": "SR1",
+      "trainings": "Strawberries",
+      "instruction": "buy one get one",
+      "price": 5.00
+    },
+    {
+      "name": "CF1",
+      "trainings": "Coffee",
+      "instruction": "buy one get one",
+      "price": 11.23
+    }
+  ]
+}
